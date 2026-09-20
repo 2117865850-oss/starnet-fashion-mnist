@@ -1,0 +1,19 @@
+{
+  "star": {
+    "runs": 3,
+    "accuracy_mean": 0.8598999977111816,
+    "accuracy_sample_sd": 0.00821643566082658,
+    "macro_f1_mean": 0.8600485605273528
+  },
+  "sum": {
+    "runs": 3,
+    "accuracy_mean": 0.8417333364486694,
+    "accuracy_sample_sd": 0.022421492262215174,
+    "macro_f1_mean": 0.8405571359327073
+  },
+  "paired_accuracy_difference_star_minus_sum": [
+    0.010100007057189941,
+    0.03530001640319824,
+    0.009099960327148438
+  ]
+}

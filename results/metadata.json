@@ -1,0 +1,50 @@
+{
+  "started_utc": "2026-09-20T04:46:00Z",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "pytorch": "2.14.0",
+  "torchvision": "0.29.0",
+  "numpy": "2.3.5",
+  "device": "mps",
+  "processor": "arm",
+  "threads": 6,
+  "cpu_model": "Apple M4",
+  "epochs": 5,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "batch_size": 128,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "adam_betas": [
+    0.9,
+    0.999
+  ],
+  "adam_eps": 1e-08,
+  "scheduler": null,
+  "loss": "cross entropy",
+  "preprocessing": "float32 pixels / 255, no augmentation",
+  "initialization": "PyTorch defaults; exact shared initial state for paired operations",
+  "checkpoint_selection": "highest validation accuracy; earliest epoch wins ties",
+  "deterministic_algorithms_enabled": false,
+  "determinism_note": "All RNG seeds and epoch permutations fixed; accelerated backend floating-point kernels may not reproduce bit-for-bit across devices/versions.",
+  "test_policy": "Evaluate test once per trained model, after best-validation checkpoint selection",
+  "source_reference": "https://github.com/ma-xu/Rewrite-the-Stars/blob/main/imagenet/starnet.py",
+  "classes": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ],
+  "total_wall_seconds_including_data_loading": 143.37829089164734,
+  "finished_utc": "2026-09-20T04:48:23Z"
+}

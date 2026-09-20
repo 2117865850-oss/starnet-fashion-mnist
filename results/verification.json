@@ -1,0 +1,62 @@
+[
+  {
+    "seed": 42,
+    "operation": "star",
+    "initial_state_sha256": "a14a7e6c456711d9e1644ef41347c4814426a03165dd3acfc2009e30ece07d80",
+    "finite_gradients": true,
+    "output_shape": [
+      8,
+      10
+    ]
+  },
+  {
+    "seed": 42,
+    "operation": "sum",
+    "initial_state_sha256": "a14a7e6c456711d9e1644ef41347c4814426a03165dd3acfc2009e30ece07d80",
+    "finite_gradients": true,
+    "output_shape": [
+      8,
+      10
+    ]
+  },
+  {
+    "seed": 43,
+    "operation": "star",
+    "initial_state_sha256": "57a14bfdfc58ac22327a40408171b592d3387b7f06f43b15b6ae307243d42203",
+    "finite_gradients": true,
+    "output_shape": [
+      8,
+      10
+    ]
+  },
+  {
+    "seed": 43,
+    "operation": "sum",
+    "initial_state_sha256": "57a14bfdfc58ac22327a40408171b592d3387b7f06f43b15b6ae307243d42203",
+    "finite_gradients": true,
+    "output_shape": [
+      8,
+      10
+    ]
+  },
+  {
+    "seed": 44,
+    "operation": "star",
+    "initial_state_sha256": "5ada8aca4506f003ecc274d3ea917b464df08dbbb1a03e865be0a6fda4896e96",
+    "finite_gradients": true,
+    "output_shape": [
+      8,
+      10
+    ]
+  },
+  {
+    "seed": 44,
+    "operation": "sum",
+    "initial_state_sha256": "5ada8aca4506f003ecc274d3ea917b464df08dbbb1a03e865be0a6fda4896e96",
+    "finite_gradients": true,
+    "output_shape": [
+      8,
+      10
+    ]
+  }
+]
