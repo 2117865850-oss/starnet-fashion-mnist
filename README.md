@@ -1,5 +1,11 @@
 # AI assignment: Fashion-StarNet and a matched sum ablation
 
+> **AI Assignment 2 (October 2026): [Bayesian classification with VBLL](assignment2-vbll/)**
+>
+> The separate Assignment 2 directory contains runnable code, measured results,
+> predictions, checkpoints and verification records. The original Assignment 1
+> project is documented below.
+
 This project implements and measures a small Fashion-MNIST adaptation of the
 StarNet block from **Rewrite the Stars** (Ma et al., CVPR 2024). Codex generated
 the adaptation, training pipeline, plotting code, and analysis in this session.
