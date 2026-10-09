@@ -1,8 +1,8 @@
 # AI assignment: Fashion-StarNet and a matched sum ablation
 
-> **AI Assignment 2 (October 2026): [Bayesian classification with VBLL](assignment2-vbll/)**
+> **AI Assignment 2 (October 2026): [Bayesian classification with VBLL](https://github.com/2117865850-oss/ai-assignment2-vbll)**
 >
-> The separate Assignment 2 directory contains runnable code, measured results,
+> The independent Assignment 2 repository contains runnable code, measured results,
 > predictions, checkpoints and verification records. The original Assignment 1
 > project is documented below.
 
